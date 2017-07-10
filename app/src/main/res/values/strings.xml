@@ -1,0 +1,19 @@
+<!-- I usually try to define user related strings here, because then whenever the application is needed to be translated, it is easier :) -->
+<resources>
+    <!-- Application strings-->
+    <string name="app_name">FbMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_marker_text">Hold down the finger to add search area on the map</string>
+
+    <!-- Facebook strings -->
+    <string name="fb_app_id">1826952764299851</string>
+    <string name="fb_login_protocol_scheme">fb1826952764299851</string>
+    <string name="fb_client_token">a1f5dcdac2d9c71aa76eb9400ae5bf15</string>
+
+    <!-- Markers strings -->
+    <string name="marker_start">Starting Point</string>
+    <string name="marker_end">Ending Point</string>
+    <string name="marker_my_location">My Location</string>
+
+    <string name="error_no_markers">Can not find nearby restaurants</string>
+</resources>
